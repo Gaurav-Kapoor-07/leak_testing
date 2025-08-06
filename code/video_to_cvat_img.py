@@ -3,8 +3,8 @@ import os
 import zipfile
 
 # Paths
-video_path = "/home/gaurav-24/leak_testing/OneDrive_1_7-25-2025/leak/WIN_20250724_17_52_07_Pro.mp4"
-output_folder = "frames/frames_WIN_20250724_17_52_07_Pro/"
+video_path = "/home/gaurav-24/leak_testing/videos/2.mp4"
+output_folder = "/home/gaurav-24/leak_testing/frames/new/frames_2/"
 zip_name = "cvat_ready_images.zip"
 
 # Create output folder

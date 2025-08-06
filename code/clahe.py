@@ -2,8 +2,8 @@ import cv2
 import os
 
 # Input and output folder paths
-input_folder = "/home/gaurav-24/leak_testing/frames/frames_WIN_20250724_17_52_07_Pro/leak/"
-output_folder = "/home/gaurav-24/leak_testing/frames/frames_WIN_20250724_17_52_07_Pro/leak_clahe/"
+input_folder = "/home/gaurav-24/leak_testing/frames/new/frames_1/"
+output_folder = "/home/gaurav-24/leak_testing/frames/new/frames_1/leak_clahe/"
 # output_folder = "/home/gaurav-24/leak_testing/frames/frames_WIN_20250724_17_52_07_Pro/leak_clahe_10/"
 
 # Create output folder if it doesn't exist
